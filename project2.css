@@ -1,0 +1,143 @@
+nav{
+
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(182, 255, 46);
+    color:black;
+    height: 100px;
+}
+.main{
+
+    image-orientation: from-image;
+    height: 300px;
+}
+.img{
+    height: 600px;
+    width:700px;
+}
+
+
+
+.cards{
+
+display:grid;
+justify-content: center;
+width:80%;
+margin:auto;
+grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+
+
+
+}
+.food cards{
+height: 360px;
+margin-inline: 11px;
+background-color: aliceblue;
+
+
+
+}
+.food cards img{
+width:100%;
+height: 200px;
+
+
+}
+
+.color{
+
+    background-color: rgb(255, 247, 0);
+}
+.color1{
+    background-color: orange;
+}
+.color2{
+    background-color: orange;
+}
+.color3{
+    background-color: orange;
+}
+.color4{
+    background-color: orange;
+}
+.color5{
+    background-color: orange;
+}
+.color6{
+    background-color: orange;
+}
+.color7{
+    background-color: orange;
+}
+
+.color8{
+    background-color: orange;
+}
+.head{
+
+text-align: center;
+
+
+}
+.icons
+{
+display: flex;
+align-items: center;
+
+
+
+}
+.color1{
+
+    height: 50px;
+    width: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
